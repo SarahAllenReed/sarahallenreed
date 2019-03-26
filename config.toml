@@ -1,0 +1,42 @@
+baseurl = "http://sarahallenreed.com"
+title = "Sarah Allen Reed, Goblin Queen."
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+  [[menu.header]]
+    name = "portfolio"
+    weight = 2
+    url = "/portfolio"
+  [[menu.header]]
+    name = "calendar"
+    weight = 3
+    url = "/calendar"
+  [[menu.header]]
+    name = "links"
+    weight = 4
+    url = "/links"
+  [[menu.header]]
+    name = "contact"
+    weight = 5
+    url = "/contact"
+
+
+[params]
+  nocomments = true
+  About = "Cartoonist. Author. Musician. Diogenes's Daughter. Undisputed Queen of Goblins."
+  GithubID = "sarahallenreed"
+  InstagramID = "sarahallenreed"
+  TwitterID = "sarahallenreed"
+  BandcampID = "sarahallenreed"
+  SoundcloudID = "sarahallenreed"
+  TwitchID = "sarahallenreed"
+##  PatreonID = "sarahallenreed"
+  Name = "Sarah Allen Reed"
+  Email = "sketchreed@gmail.com"
+  ProfilePicture = "/profile.jpg"
+  Favicon = "/favicon.ico"
