@@ -1,0 +1,10 @@
+// shortcodes/manifest.html
+<ul>
+	{{ range .Resources.Match "calendar/*" }}
+	<li>
+		<a target="_blank" href="{{ .Permalink }}">
+			<i class="far fa-file-{{ .Params.icon }}"></i> {{ .Title }} <small>{{ with .Params.ref }}(Ref.{{ . }}) {{ end }}</small>
+		</a>
+	</li>
+	{{ end }}
+</ul>

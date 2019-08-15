@@ -3,26 +3,33 @@ title = "Sarah Allen Reed, Goblin Queen."
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 
-[menu]
+  [[menu.header]]
+    name = "catalogue"
+    weight = 1
+    url = "/catalogue"
+  [[menu.header]]
+    name = "illustration"
+    weight = 2
+    url = "/illustration"
+  [[menu.header]]
+    name = "sequential"
+    weight = 3
+    url = "/comic"
+  [[menu.header]]
+    name = "music"
+    weight = 4
+    url = "/music"
   [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 5
     url = "/about"
   [[menu.header]]
-    name = "portfolio"
-    weight = 2
-    url = "/portfolio"
-  [[menu.header]]
-    name = "calendar"
-    weight = 3
-    url = "/calendar"
-  [[menu.header]]
-    name = "links"
-    weight = 4
-    url = "/links"
+    name = "blog"
+    weight = 6
+    url = "/blog"
   [[menu.header]]
     name = "contact"
-    weight = 5
+    weight = 7
     url = "/contact"
 
 
@@ -34,7 +41,7 @@ languageCode = "en-us"
   TwitterID = "sarahallenreed"
   BandcampID = "sarahallenreed"
   SoundcloudID = "sarahallenreed"
-  TwitchID = "sarahallenreed"
+## TwitchID = "sarahallenreed"
 ##  PatreonID = "sarahallenreed"
   Name = "Sarah Allen Reed"
   Email = "sketchreed@gmail.com"
