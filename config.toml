@@ -14,7 +14,7 @@ languageCode = "en-us"
   [[menu.header]]
     name = "sequential"
     weight = 3
-    url = "/comic"
+    url = "/sequential"
   [[menu.header]]
     name = "music"
     weight = 4
