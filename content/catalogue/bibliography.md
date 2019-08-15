@@ -3,7 +3,9 @@ title = "Selected Bibliography"
 date = "2014-04-09"
 +++
 
-The following is a semi-complete list of comix and sequential art projects I have contributed to, as well as relevant links. For sample illustration work that is not sequential art work, please see the Illustration page; for sequential art samples, please click on the "Sequential" link above.
+The following is a semi-complete list of comix and sequential art projects I have contributed to, as well as relevant links.
+
+If you are looking for an abbreviated history of my illustration work, [please refer to the Selected Illustration Work page](/catalogue/illustration) for a list of appearances. For sample illustration work that is not sequential art work, [please see the Illustration sample page](/illustration); for sequential art samples, please click on the "Sequential" link above, [or click here.](/sequential). 
 
 ### Series (Author and Illustrator)
 

@@ -3,7 +3,7 @@ title = "Selected Discography"
 date = "2014-04-09"
 +++
 
-Below is a short summary of my discography up to this point, with some singles omitted. For samples of these recordings, please click "Music" in the menu above, or check out [my Bandcamp](https://sarahallenreed.bandcamp.com) or [my Soundcloud](http://soundcloud.com/sarahallenreed).
+Below is a short summary of my discography up to this point, with some singles omitted. For samples of these recordings, please [refer to the Music link](/music) in the menu above, or check out [my Bandcamp](https://sarahallenreed.bandcamp.com) or [my Soundcloud](http://soundcloud.com/sarahallenreed).
 
 ### as Cassandra Complex
 

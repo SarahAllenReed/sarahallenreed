@@ -36,11 +36,11 @@ languageCode = "en-us"
 [params]
   nocomments = true
   About = "Cartoonist. Author. Musician. Diogenes's Daughter. Undisputed Queen of Goblins."
-  GithubID = "sarahallenreed"
   InstagramID = "sarahallenreed"
   TwitterID = "sarahallenreed"
   BandcampID = "sarahallenreed"
-  SoundcloudID = "sarahallenreed"
+  GithubID = "sarahallenreed"
+##  SoundcloudID = "sarahallenreed"
 ## TwitchID = "sarahallenreed"
 ##  PatreonID = "sarahallenreed"
   Name = "Sarah Allen Reed"
