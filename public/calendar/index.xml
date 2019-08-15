@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendars on Sarah Allen Reed, Goblin Queen.</title>
+    <link>http://sarahallenreed.com/calendar/</link>
+    <description>Recent content in Calendars on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sarahallenreed.com/calendar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tour Schedule</title>
+      <link>http://sarahallenreed.com/calendar/concerts/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/calendar/concerts/</guid>
+      <description> With BLACKWORK SPACE  Columbus, OH
+April 27 &amp;amp; 28, 2019 Site  More dates to be announced soon; watch Sarah&amp;rsquo;s Twitter for more details. </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequential Art on Sarah Allen Reed, Goblin Queen.</title>
+    <link>http://sarahallenreed.com/sequential/</link>
+    <description>Recent content in Sequential Art on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://sarahallenreed.com/sequential/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comic Art Samples</title>
+      <link>http://sarahallenreed.com/sequential/sampleart1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/sequential/sampleart1/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 1500px; height: 900px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: white; font-weight: bold; font-size: 18px; transition: 0.</description>
+    </item>
+    
+    <item>
+      <title>Sample Story: Barren Chapter 1</title>
+      <link>http://sarahallenreed.com/sequential/samplestory2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/sequential/samplestory2/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 680px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: black; font-weight: bold; font-size: 18px; transition: 0.6s ease; border-radius: 0 3px 3px 0; user-select: none; } /* Position the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Sample Story: Never Another Cold Night, Part 2</title>
+      <link>http://sarahallenreed.com/sequential/samplestory1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/sequential/samplestory1/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 680px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color:black; font-weight: bold; font-size: 18px; transition: 0.6s ease; border-radius: 0 3px 3px 0; user-select: none; } /* Position the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Sample Story: The Way We Were</title>
+      <link>http://sarahallenreed.com/sequential/samplestory3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/sequential/samplestory3/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 680px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: black; font-weight: bold; font-size: 18px; transition: 0.6s ease; border-radius: 0 3px 3px 0; user-select: none; } /* Position the &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

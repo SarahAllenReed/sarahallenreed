@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalogue on Sarah Allen Reed, Goblin Queen.</title>
+    <link>http://sarahallenreed.com/catalogue/</link>
+    <description>Recent content in Catalogue on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sarahallenreed.com/catalogue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selected Bibliography</title>
+      <link>http://sarahallenreed.com/catalogue/bibliography/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/catalogue/bibliography/</guid>
+      <description>The following is a semi-complete list of comix and sequential art projects I have contributed to, as well as relevant links.
+If you are looking for an abbreviated history of my illustration work, please refer to the Selected Illustration Work page for a list of appearances. For sample illustration work that is not sequential art work, please see the Illustration sample page; for sequential art samples, please click on the &amp;ldquo;Sequential&amp;rdquo; link above, or click here.</description>
+    </item>
+    
+    <item>
+      <title>Selected Discography</title>
+      <link>http://sarahallenreed.com/catalogue/discography/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/catalogue/discography/</guid>
+      <description>Below is a short summary of my discography up to this point, with some singles omitted. For samples of these recordings, please refer to the Music link in the menu above, or check out my Bandcamp or my Soundcloud.
+as Cassandra Complex  Visitors (Split EP)
+2017  as Coma Roulette  Snow
+2017  as Monoaura  sick.day
+2017
+ loading.dock.view
+2016
+  as X.  Absolution EP</description>
+    </item>
+    
+    <item>
+      <title>Selected Illustration Work</title>
+      <link>http://sarahallenreed.com/catalogue/illustration/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/catalogue/illustration/</guid>
+      <description>The following is a semi-complete list of companies and publications I have done illustration for, as well as relevant links.
+If you are looking for an abbreviated history of my sequential art and comix work, please refer to the Bibliography section for a list of appearances.
+For a wide range of examples of my abilities in regards to sequential art, please refer to the Sequentiial Art page in the navbar above; for illustration and fine art samples, please click on the &amp;ldquo;Illustration&amp;rdquo; link above, or click here.</description>
+    </item>
+    
+  </channel>
+</rss>
