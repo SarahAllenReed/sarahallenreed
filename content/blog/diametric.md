@@ -1,12 +1,13 @@
 ---
 title: "Diametric No. 1: Call For Submissions"
 description: "A quick blog post about a new kind of literary magazine."
-date: "2019-09-01"
+date: "2019-09-01
+"
 ---
 
 Good morning! It's a calm day here at the ranch, and the sun is shining through the studio window. I hope your day is shining bright as well.
 
-As you've probably been seeing on Twitter and Instagram, I've been kicking around a concept of starting an anarchist literary magazine for a good minute publicly. I've pitched the idea to some very good friends, and after some wonderful back-and-forth and a bit of time in the incubator, I think today's a great day to announce open submissions for...
+As you've probably been seeing on Twitter and Instagram, I've been kicking around a concept of starting an anarchist literary magazine for a good minute. I've pitched the idea to some very good friends, and after some wonderful back-and-forth and a bit of time in the incubator, and I think today's a great day to announce open submissions for...
 
 <img src="/blog/diametric.png"/ style="display: block; margin-left: auto; margin-right: auto; width: auto;">
 

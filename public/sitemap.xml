@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sarahallenreed.com/blog/diametric/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sarahallenreed.com/catalogue/bibliography/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -51,7 +46,6 @@
   
   <url>
     <loc>http://sarahallenreed.com/blog/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,8 +73,12 @@
   </url>
   
   <url>
+    <loc>http://sarahallenreed.com/blog/diametric/</loc>
+  </url>
+  
+  <url>
     <loc>http://sarahallenreed.com/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

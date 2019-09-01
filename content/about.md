@@ -13,4 +13,4 @@ In her long and varied career, she has written multiple books and records, been 
 
 When she's not busy hanging out in the back of her Econoline van, drawing away at a greasy spoon, messing with one of her pet Linux servers, playing her bass guitar in the moonlight, or wandering throughout the United States, she can often be found arranging flowers, cooking, working out, painting, or floating above the coast at midnight, waiting for the tide to wrap her in its loving embrace and take her away.
 
-She currently resides in Portland, Maine; although, as with everything else in life, this is subject to change.
+She currently resides somewhere deep in the Colorado backcountry; although, as with everything else in life, this is subject to change.
