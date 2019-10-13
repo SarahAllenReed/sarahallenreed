@@ -5,4 +5,6 @@ description: A collection of resources, work samples, and other resources for th
 
 A collection of resources, work samples, and other resources for those interested in hiring me for their company or project.
 
-If you would like to view samples of completed work, [please click the Illustration link above](/illustration) for illustrative and fine arts works, or [click the Sequential art tab](/sequential) above for samples of my sequential art prowess.
+If you would like to view samples of completed work, [please click the Illustration link above](/illustration) for illustrative, design, and fine arts works, or [click the Sequential art tab](/sequential) above for samples of my sequential art prowess.
+
+If you would like to hire me for your next project, [please click here.](/contact)

@@ -5,7 +5,13 @@ type: list
 ---
 
 Below is a short sampling of musical works I have composed and performed. For a complete catalogue of currently available albums, as well as Bandcamp and Soundcloud links, please click the Catalogue link above and click ["Selected Discography."](/catalogue/discography)
+
+If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please click here.](/contact)
+
 <br/><br/>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=162541511/size=small/bgcol=333333/linkcol=fe7eaf/transparent=true/" seamless><a href="http://opheliadrowning.bandcamp.com/album/pray-you-love-remember-demo-ep-iii">Pray You, Love, Remember (Demo EP III) by Ophelia Drowning</a></iframe>
+<br/>
+<br/>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3816806328/size=small/bgcol=333333/linkcol=fe7eaf/track=3907170483/transparent=true/" seamless><a href="http://sarahallenreed.bandcamp.com/album/snow">Snow by Coma Roulette</a></iframe>
 <br/>
 <br/>

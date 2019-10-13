@@ -8,11 +8,4 @@ If you would like to contact me for a buisness or professional inquiry, or if yo
 
 I am happy to send sample copies, either digital or print, of my books and records free of charge for review purposes, so if you are a member of the press who would like to interview me for your publication, please reach out via the email address above.
 
-If you would like to send me books, solicitations, letters, or anything else through the post, feel free to address it to the PO box used by the BLACKWORK team at:
-
->  Sarah Allen Reed  
->  C/O BLACKWORK.  
->  PO Box 122  
->  Brunswick, ME 04011-0122  
-
-All reasonably written letters which do not contain arsenic will be answered if possible; however, please allow at least a month or two for a response.
+Unfortunately, I am between PO boxes at this time, and as a result no mail sent to any of the previous addresses I have held will be received. If you would like my personal mailing address in order to send me business-related correspondence, plead your case in an email directed to the above address. I regret to inform you that I cannot currently give out my mailing address for personal affairs at this time, whether they be friendly, romantic, or a wax-sealed summons to the New England hinterlands in order to duel me to the death to avenge your 'honor', your 'dignity', or your 'boyfriend'. 
