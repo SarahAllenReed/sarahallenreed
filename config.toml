@@ -4,32 +4,46 @@ theme = "hugo-theme-nix"
 languageCode = "en-us"
 
   [[menu.header]]
-    name = "catalogue"
+    name = "resume"
     weight = 1
-    url = "/catalogue"
+    url = "/resume"
+  [[menu.header]]
+    name = "art"
+    weight = 2
+    url = "/art"
   [[menu.header]]
     name = "illustration"
-    weight = 2
+    weight = 3
     url = "/illustration"
   [[menu.header]]
     name = "sequential"
-    weight = 3
+    weight = 4
     url = "/sequential"
   [[menu.header]]
     name = "music"
-    weight = 4
-    url = "/music"
-  [[menu.header]]
-    name = "about"
     weight = 5
-    url = "/about"
+    url = "/music"
+###
+###[[menu.header]]
+### name = "buymystuff"
+### weight = 6
+### url = "/buymystuff"
+###
+  [[menu.header]]
+    name = "hireme"
+    weight = 7
+    url = "/hireme"
   [[menu.header]]
     name = "blog"
-    weight = 6
-    url = "/blog"
+    weight = 8
+    url = "https://heymamasarah.neocities.org/"
+  [[menu.header]]
+    name = "about"
+    weight = 9
+    url = "/about"
   [[menu.header]]
     name = "contact"
-    weight = 7
+    weight = 10
     url = "/contact"
 
 

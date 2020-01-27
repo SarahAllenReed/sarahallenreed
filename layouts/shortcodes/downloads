@@ -4,6 +4,10 @@
 		<a target="_blank" href="{{ .Permalink }}">
 			<i class="far fa-file-{{ .Params.icon }}"></i> {{ .Title }} <small>{{ with .Params.ref }}(Ref.{{ . }}) {{ end }}</small>
 		</a>
+		<br>
+		     {{ .Params.description }}
+		</br>
 	</li>
 	{{ end }}
 </ul>
+<br/><br/>
