@@ -3,6 +3,11 @@ title = "Selected Client Reviews"
 description = "Samples of quotes from peers and satisfied clients."
 +++
 
+
+>"I hired Sarah to make the album art for my full-length, as well as a t-shirt design based off of that. Sarah conducted herself in a helpful and professional manner throughout the entire experience; the consultation and quotation process were smooth and informative, and gave me confidence in hiring her services. She was communicative every step of the way, showing me progress pictures and regularly asking for my input. Of course, my input was barely needed aside from the initial consultation; her artistic ability is unparalleled! I am thrilled with the end products, and would hire Sarah again in a heartbeat."
+
+--Jenn Taiga, [musician](https://jenntaiga.bandcamp.com/)
+
 >"Sarah is wonderful. She is really easy to work with and will cater her own vision to any project you might have. She is also incredibly fast, though not for lack of quality. Her work is always thorough and detailed."
 
 --Dylan Rupe, member of Bull Of Apis Bull Of Bronze and Fogweaver and founder of [Fableglade Records](https://www.facebook.com/fablegladerecords)
