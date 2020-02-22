@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sarahallenreed.com/catalogue/bibliography/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sarahallenreed.com/portfolio/bibliography/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sarahallenreed.com/catalogue/discography/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sarahallenreed.com/catalogue/illustration/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sarahallenreed.com/calendar/concerts/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -33,15 +13,11 @@
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/illustration/fineart/</loc>
+    <loc>http://sarahallenreed.com/audio/</loc>
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/portfolio/fineart/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sarahallenreed.com/portfolio/fineart_2/</loc>
+    <loc>http://sarahallenreed.com/resume/bibliography/</loc>
   </url>
   
   <url>
@@ -49,14 +25,13 @@
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/calendar/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://sarahallenreed.com/supportmywork/</loc>
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/catalogue/</loc>
+    <loc>http://sarahallenreed.com/calendar/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -77,8 +52,28 @@
   </url>
   
   <url>
+    <loc>http://sarahallenreed.com/resume/discography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/illustration/booklayoutsamples/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/supportmywork/books/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/visual/</loc>
+  </url>
+  
+  <url>
     <loc>http://sarahallenreed.com/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/visual/fineart2/</loc>
   </url>
   
   <url>
@@ -90,17 +85,47 @@
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/music/</loc>
+    <loc>http://sarahallenreed.com/resume/clients/</loc>
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/portfolio/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://sarahallenreed.com/visual/fineart/</loc>
   </url>
   
   <url>
-    <loc>http://sarahallenreed.com/illustration/illustrationsample/</loc>
+    <loc>http://sarahallenreed.com/visual/portraits/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/hireme/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/supportmywork/records/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/illustration/illustrationsample5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/illustration/illustrationsample2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/illustration/illustrationsample4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/illustration/illustrationsample3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/sequential/samplestory4/</loc>
   </url>
   
   <url>
@@ -113,6 +138,14 @@
   
   <url>
     <loc>http://sarahallenreed.com/sequential/samplestory3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/resume/pullquotes2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sarahallenreed.com/resume/pullquotes/</loc>
   </url>
   
   <url>

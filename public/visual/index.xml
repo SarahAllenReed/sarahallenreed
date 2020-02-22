@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fine Art on Sarah Allen Reed, Goblin Queen.</title>
+    <link>http://sarahallenreed.com/visual/</link>
+    <description>Recent content in Fine Art on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://sarahallenreed.com/visual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Illustrated Poetry</title>
+      <link>http://sarahallenreed.com/visual/fineart2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/visual/fineart2/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 1500px; height: 900px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: white; font-weight: bold; font-size: 18px; transition: 0.</description>
+    </item>
+    
+    <item>
+      <title>Personal Work</title>
+      <link>http://sarahallenreed.com/visual/fineart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/visual/fineart/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 1500px; height: 900px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: white; font-weight: bold; font-size: 18px; transition: 0.</description>
+    </item>
+    
+    <item>
+      <title>Portraiture</title>
+      <link>http://sarahallenreed.com/visual/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sarahallenreed.com/visual/portraits/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}   * {box-sizing: border-box} body {font-family: Verdana, sans-serif; margin:0; background-color:#000;} .mySlides {display: none} img {vertical-align: middle;} /* Slideshow container */ .slideshow-container { max-width: 1500px; height: 900px; position: relative; margin: auto; } /* Next &amp; previous buttons */ .prev, .next { cursor: pointer; position: absolute; top: 50%; width: auto; padding: 16px; margin-top: -22px; color: white; font-weight: bold; font-size: 18px; transition: 0.</description>
+    </item>
+    
+  </channel>
+</rss>
