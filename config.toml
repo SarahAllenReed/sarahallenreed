@@ -8,42 +8,44 @@ languageCode = "en-us"
     weight = 1
     url = "/resume"
   [[menu.header]]
-    name = "visual"
+    name = "art"
     weight = 2
-    url = "/visual"
+    url = "/art"
+##  [[menu.header]]
+##    name = "writings"
+##    weight = 3
+##    url = "/writings"
   [[menu.header]]
     name = "illustration"
-    weight = 3
+    weight = 4
     url = "/illustration"
   [[menu.header]]
     name = "sequential"
-    weight = 4
+    weight = 5
     url = "/sequential"
   [[menu.header]]
     name = "audio"
-    weight = 5
+    weight = 6
     url = "/audio"
-###
-###[[menu.header]]
-### name = "buymystuff"
-### weight = 6
-### url = "/buymystuff"
-###
+  [[menu.header]]
+    name = "buystuff"
+    weight = 7
+    url = "/buystuff"
   [[menu.header]]
     name = "hireme"
-    weight = 7
+    weight = 8
     url = "/hireme"
   [[menu.header]]
-    name = "blog"
-    weight = 8
-    url = "https://heymamasarah.neocities.org/"
+    name = "patreon"
+    weight = 9
+    url = "https://patreon.com/sarahallenreed/"
   [[menu.header]]
     name = "about"
-    weight = 9
+    weight = 10
     url = "/about"
   [[menu.header]]
     name = "contact"
-    weight = 10
+    weight = 11
     url = "/contact"
 
 

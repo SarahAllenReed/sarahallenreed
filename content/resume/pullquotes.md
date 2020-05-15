@@ -1,6 +1,7 @@
 +++
 title = "Selected Peer Reviews"
 description = "Samples of quotes from peers and fellow cartoonists."
+weight = 5
 +++
 
 >"Sarah is a sure-footed comics artist whose sense of DIY ethos and love of the medium have combined to make something powerful and beautiful and truly her own. The struggle is real, but with a pen in our hands, the artist will find glory at its peak. Sarah's work marks the emergence of a new leader on the rise with enough energy to drill through the toughest obstacles with the sharp edge of printed media and the blunt power of comics culture."

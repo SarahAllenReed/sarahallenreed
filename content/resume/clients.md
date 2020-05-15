@@ -1,7 +1,10 @@
 +++
 title = "Past Illustration Clients"
 description = "Small selection of clients I have worked with."
+weight = 3
 +++
+
+<!--
 
 The following is a semi-complete list of companies and publications I have done illustration for, as well as relevant links.
 
@@ -10,6 +13,7 @@ If you are looking for an abbreviated history of my sequential art and comix wor
 For a wide range of examples of my abilities in regards to sequential art, [please refer to the Sequential Art page](/sequential) in the navbar above; for illustration and fine art samples, please click on the "Illustration" link above, [or click here.](/illustration).
 
 If you would like my illustrative talents on your next release, [please click here.](/contact)
+-->
 
 ### Editor And Publisher
 
