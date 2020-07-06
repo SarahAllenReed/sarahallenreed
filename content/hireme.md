@@ -17,6 +17,7 @@ My skillset includes, but is not limited to, the following:
 #### Audio ---
 * Full album mastering services, specializing in experimental, extreme, and electronic music
 * Remixes and reworkings of existing tracks
+* Commercial, short film, or full-album soundtracks
 * Voiceover and dictation services
 
 #### Writing And Literary Services ---
@@ -39,7 +40,7 @@ All rates and terms listed are subject to change at any time, and I up these rat
 
 #### Design And Illustration ---
 
-* My current rate for illustration and design (including original art, layout work, package design, most short sequential art pieces, and most other visual work) is 45/hr, minimum 2 hours. 
+* My current rate for illustration and design (including original art, layout work, package design, most short sequential art pieces, and most other visual work) is 45/hr, minimum 2 hours.
 * Most smaller pieces, depending on detail, run about three to five hours. I keep itemized timesheets for your references/files, and upon asking a couple quick questions about what you require, I will provide you with a quick estimate (which is not a final bill, mind; the final amount of hours needed for any given job can go up and down depending on a variety of factors, all of which will be explained in the timesheets) and I will request half of the estimate up front before work begins.
 * I do request to retain copyright of whatever art, music, or design that I create for you. I often do retrospective collections and retaining publishing rights to my illustrations makes this an easier process. This is negotiable, but my rate per hour will double should you insist upon being given the copyright.
 * Finally, should you request a hard copy of the piece itself, that absolutely is workable; I draw nearly all of my art by hand, and I'm more than happy to ship the image to you in exchange for the shipping costs. While I often use whatever is on hand for most projects, I am more than happy to use archival materials, paper, and inks at no additional charge for yours should you decide to request the hard copy, so that the original of your piece will stand the test of time. Shipping, however, will be an extra charge.
@@ -55,7 +56,7 @@ All rates and terms listed are subject to change at any time, and I up these rat
 
 #### Musical And Auditory Work ---
 
-* Please email me directly for information about mastering, voiceover, or songwriting rates.
+* Please email me directly for information about mastering, voiceover, soundtrack, or songwriting rates.
 * I do not do ghostwriting for musical projects, and will insist upon a production credit on any musical work I am a part of.
 * If you, your venue, or your promotions agency would like to book one of my bands, I am often more than happy to work with you; [please reach out via email](mailto:sketchreed@gmail.com) to discuss any plans you may have to that end.
 

@@ -40,6 +40,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 
 ### Guest Vocals
 
+<!--
+* [Revered And Reviled Above All Others: "Eroding Immunity"](https://reveredandreviledaboveallothers.bandcamp.com/releases) (Upcoming album, 2020)
+      Guest vocals on "Eroding Immunity"
+-->
 * [Adzes: "No One Wnats To Speak About It"](https://tridroid.bandcamp.com/album/no-one-wants-to-speak-about-it) (Tridroid Records, 2020)  
    Guest vocals on "No One Wants To Speak About It"   
 

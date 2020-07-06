@@ -40,6 +40,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 
 ### as Coma Roulette
 
+* [Live On Datafruits](https://comaroulette.bandcamp.com/album/live-on-datafruits)   
+   Live album   
+   2020   
+
 * [Coma Roulette And Hallucinogenic Bulb](https://comaroulette.bandcamp.com/album/coma-roulette-and-hallucinogenic-bulb)   
    Split EP with [Hallucinogenic Bulb](https://hallucinogenicbulb.bandcamp.com/)    
    2020   
@@ -100,8 +104,11 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 -----------
 
 ### Guest Vocals
-
-* [Adzes: "No One Wnats To Speak About It"](https://tridroid.bandcamp.com/album/no-one-wants-to-speak-about-it) (Tridroid Records, 2020)  
+<!--
+* [Revered And Reviled Above All Others: "Eroding Immunity"](https://reveredandreviledaboveallothers.bandcamp.com/releases) (Upcoming album, 2020)
+      Guest vocals on "Eroding Immunity"
+-->
+* [Adzes: "No One Wants To Speak About It"](https://tridroid.bandcamp.com/album/no-one-wants-to-speak-about-it) (Tridroid Records, 2020)  
       Guest vocals on "No One Wants To Speak About It"   
 
 ### Compilation Appearances

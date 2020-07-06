@@ -19,11 +19,11 @@ If you would like my illustrative talents on your next release, [please click he
    2019-2020
 
 ### Staff Writing Positions
-
+<!--
 * [Evening Of Light](http://www.eveningoflight.nl/)   
   Columnist/Interviewer   
   2020-Present   
-
+-->
 * [The Forest At Night](https://www.theforestatnight.com/)   
   Staff Writer   
   2020-Present   
