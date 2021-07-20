@@ -1,7 +1,6 @@
 +++
 title = "Selected Client Reviews"
 description = "Samples of quotes from peers and satisfied clients."
-weight = 6
 +++
 
 

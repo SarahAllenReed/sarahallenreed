@@ -1,7 +1,6 @@
 +++
 title = "Columns, Submissions, And Other Writings"
 description = "Small selection of clients I have worked with."
-weight = 4
 +++
 <!--
 The following is a semi-complete list of companies and publications I have done illustration for, as well as relevant links.

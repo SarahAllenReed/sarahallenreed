@@ -1,7 +1,6 @@
 +++
 title = "Past Illustration Clients"
 description = "Small selection of clients I have worked with."
-weight = 3
 +++
 
 <!--

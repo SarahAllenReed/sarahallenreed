@@ -3,63 +3,134 @@ title = "Sarah Allen Reed, Goblin Queen."
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 
+[menu]
+
   [[menu.header]]
-    name = "resume"
+    identifier = "audio"
+    name = "audio works"
     weight = 1
-    url = "/resume"
+     [[menu.header]]
+       parent = "audio"
+       name = "ophelia drowning"
+       url = "https://opheliadrowning.bandcamp.com"
+     [[menu.header]]
+       parent = "audio"
+       name = "coma roulette"
+       url = "https://comaroulette.bandcamp.com"
+     [[menu.header]]
+       parent = "audio"
+       name = "shibito"
+       url = "https://shibito.bandcamp.com"
+     [[menu.header]]
+       parent = "audio"
+       name = "solo symphonic work"
+       url = "https://sarahallenreed.bandcamp.com"
+
   [[menu.header]]
-    name = "art"
-    weight = 2
-    url = "/art"
-##  [[menu.header]]
-##    name = "writings"
-##    weight = 3
-##    url = "/writings"
-  [[menu.header]]
-    name = "illustration"
-    weight = 4
+    identifier = "illustration"
+    name = "art and illustration"
+    weight = 3
     url = "/illustration"
+     [[menu.header]]
+       parent = "illustration"
+       name = "book layout samples"
+       url = "/illustration/booklayoutsamples/"
+     [[menu.header]]
+       parent = "illustration"
+       name = "full-color illustration"
+       url = "/illustration/fullcolor"
+     [[menu.header]]
+       parent = "illustration"
+       name = "package design"
+       url = "/illustration/fullpackage"
+     [[menu.header]]
+       parent = "illustration"
+       name = "logo design"
+       url = "/illustration/logodesign"
+     [[menu.header]]
+       parent = "illustration"
+       name = "fine art"
+       url = "/illustration/fineart"
+     [[menu.header]]
+       parent = "illustration"
+       name = "illuminated poetry"
+       url = "/illustration/fineart2"
+     [[menu.header]]
+       parent = "illustration"
+       name = "portraits"
+       url = "/illustration/portraits"
+
   [[menu.header]]
-    name = "sequential"
+    identifier = "comics"
+    name = "sequential art samples"
+    weight = 4
+    url = "/comics"
+     [[menu.header]]
+       parent = "comics"
+       name = "bibliography"
+       url = "/comics/sampleart1"
+     [[menu.header]]
+       parent = "comics"
+       name = "discography"
+       url = "/comics/samplestory1"
+     [[menu.header]]
+       parent = "comics"
+       name = "past clients"
+       url = "/comics/samplestory2"
+     [[menu.header]]
+       parent = "comics"
+       name = "columns and other writings"
+       url = "/comics/samplestory3"
+     [[menu.header]]
+       parent = "comics"
+       name = "peer reviews"
+       url = "/comics/samplestory4"
+     [[menu.header]]
+       parent = "comics"
+       name = "client reviews"
+       url = "/comics/samplestory5"
+     [[menu.header]]
+       parent = "comics"
+       name = "client reviews"
+       url = "/comics/samplestory6"
+
+  [[menu.header]]
     weight = 5
-    url = "/sequential"
-  [[menu.header]]
-    name = "audio"
-    weight = 6
-    url = "/audio"
-  [[menu.header]]
-    name = "buystuff"
-    weight = 7
-    url = "/buystuff"
-  [[menu.header]]
-    name = "hireme"
-    weight = 8
-    url = "/hireme"
-  [[menu.header]]
-    name = "patreon"
-    weight = 9
-    url = "https://patreon.com/sarahallenreed/"
-  [[menu.header]]
-    name = "about"
-    weight = 10
-    url = "/about"
-  [[menu.header]]
-    name = "contact"
-    weight = 11
-    url = "/contact"
+    identifier = "about"
+    name = "resume and bio"
+    url = "/resume"
+     [[menu.header]]
+       parent = "about"
+       name = "who is sarah allen reed?"
+       url = "/about/bio"
+    [[menu.header]]
+       parent = "about"
+       name = "bibliography"
+       url = "/about/biblio"
+    [[menu.header]]
+      parent = "about"
+      name = "discography"
+      url = "/about/discography"
+    [[menu.header]]
+      parent = "about"
+      name = "past clients"
+      url = "/about/clients"
+    [[menu.header]]
+      parent = "about"
+      name = "columns and other writings"
+      url = "/about/spots"
+
+
 
 
 [params]
-  nocomments = true
+  Name = "Sarah Allen Reed"
+  Email = "sketchreed@gmail.com"
+  ProfilePicture = "/profile.jpg"
+  Favicon = "/favicon.ico"
+  HeaderHostname = "sarahallenreed.com"
   About = "Cartoonist. Author. Musician. Diogenes's Daughter. Undisputed Queen of Goblins."
   InstagramID = "sarahallenreed"
   TwitterID = "sarahallenreed"
   BandcampID = "sarahallenreed"
   GithubID = "sarahallenreed"
-##  SoundcloudID = "sarahallenreed"
-## TwitchID = "sarahallenreed"
-##  PatreonID = "sarahallenreed"
-  Name = "Sarah Allen Reed"
-  Email = "sketchreed@gmail.com"
-  ProfilePicture = "/profile.jpg"
-  Favicon = "/favicon.ico"

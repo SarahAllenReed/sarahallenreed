@@ -1,19 +1,32 @@
 +++
 title = "Selected Discography"
 description = "A small selection of published recordings."
-weight = 2
 +++
 
-<!--
-Below is a short summary of my discography up to this point, with some releases (singles, etc) omitted for brevity. For samples of these recordings, please [refer to the Music link](/music) in the menu above, or check out [my Bandcamp](https://sarahallenreed.bandcamp.com) or [my Soundcloud](http://soundcloud.com/sarahallenreed).
+
+The following is a semi-complete compendium of records I have released over the years, with certain singles and guest appearances removed in the interest of length. If you are looking for those, [please click here.](/audio)
 
 If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please click here.](/contact)
--->
+
+### as herself
+
+* [Neoclassical Works, 2015-2021](https://sarahallenreed.bandcamp.com/album/neoclassical-works-2015-2021)   
+   Compilation EP   
+   2021  
+
 ### as Ophelia Drowning
 
 * [Suicidal](https://opheliadrowning.bandcamp.com/album/suicidal-ep)   
    EP   
    2020  
+
+* [Ophelia Drowning And Equine](https://opheliadrowning.bandcamp.com/album/ophelia-drowning-and-equine-split-ep)   
+   Live Split EP with [Equine](https://equine.bandcamp.com/)    
+   2020   
+
+* [Ophelia Drowning And Idacarabus](https://opheliadrowning.bandcamp.com/album/ophelia-drowning-and-idacarabus-split-ep)   
+   Split EP with [Idacarabus](https://idacarabus.bandcamp.com/)    
+   2020   
 
 * [Live At Glitter City](https://opheliadrowning.bandcamp.com/album/live-at-glitter-city-2)   
    Live LP with cassette release via [Wrought Records](https://wroughtrecords.bandcamp.com/merch)   
@@ -22,6 +35,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 * [Trilogy](https://opheliadrowning.bandcamp.com/album/trilogy-the-demos-i-iii)   
    LP with cassette release via [Akashic Envoy Records](https://akashicenvoyrecords.limitedrun.com/products/659293-aer-014-ophelia-drowning-trilogy)   
    2019    
+
+* [Ophelia Drowning And Phlegm Orgy](https://opheliadrowning.bandcamp.com/album/ophelia-drowning-phlegm-orgy-split-ep)   
+   Split EP with Phlegm Orgy
+   2019   
 
 <!--
 
@@ -39,6 +56,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 -->
 
 ### as Coma Roulette
+
+* [Coma Roulette And Vmthanaachth](https://comaroulette.bandcamp.com/album/coma-roulette-vmthanaachth)   
+   Split EP with [Vmthanaachth](https://vmthanaachth.bandcamp.com/)    
+   2020   
 
 * [Live On Datafruits](https://comaroulette.bandcamp.com/album/live-on-datafruits)   
    Live album   
@@ -82,6 +103,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 
 ### as Ex- (formerly X.)
 
+* [Live At the Supermarket](https://ex-idm.bandcamp.com/album/live-at-the-supermarket)   
+  Live LP   
+  2020
+
 * [Absolution EP](https://ex-idm.bandcamp.com/album/absolution-ep-re-issue)   
   EP   
   2014
@@ -94,31 +119,61 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
   EP   
   2012  
 
+### as Shibito
 
+* [live beneath the seventh circle](https://shibito.bandcamp.com/album/live-beneath-the-seventh-circle)   
+  Live EP   
+  2021
+
+* [mirror pool](https://shibito.bandcamp.com/album/mirror-pool)   
+  EP  
+  2021
+
+* [suda](https://shibito.bandcamp.com/album/suda-demo)   
+  Demo EP   
+  2020  
+
+### as Wyeth
+
+* [Hymns 1](https://wyeth.bandcamp.com/album/hymns-i)   
+  LP  
+  To Be Released 2021
+
+* [A Plague Upon Four Houses](https://tfanpresents.bandcamp.com/album/a-plague-upon-four-houses)   
+  Four-way split EP released via [TFAN Presents](https://tfanpresents.bandcamp.com/)   
+  2020
+
+* [Today I Started Loving You Again](https://wyeth.bandcamp.com/track/today-i-started-loving-you-again-merle-haggard-cover)   
+  Single  
+  2020
+
+<!--
 ### as Cassandra Complex
 
 * [Visitors (Split EP)](https://sarahallenreed.bandcamp.com/album/visitors-split-demo)  
    Split EP   
    2017
-
+-->
 -----------
 
 ### Guest Vocals
-<!--
+
 * [Revered And Reviled Above All Others: "Eroding Immunity"](https://reveredandreviledaboveallothers.bandcamp.com/releases) (Upcoming album, 2020)
       Guest vocals on "Eroding Immunity"
--->
+
 * [Adzes: "No One Wants To Speak About It"](https://tridroid.bandcamp.com/album/no-one-wants-to-speak-about-it) (Tridroid Records, 2020)  
       Guest vocals on "No One Wants To Speak About It"   
 
 ### Compilation Appearances
 
+* [A Fableglade Compendium, Vol. 1](https://hopeversushaterecords.bandcamp.com/) (Hope Vs. Hate Records, 2020)   
+    "...Can We Get This Right?" (as Sarah Allen Reed)  
+
 * [Hope In The Face Of Fear](https://hopeversushaterecords.bandcamp.com/) (Hope Vs. Hate Records, 2020)   
     "...Can We Get This Right?" (as Ophelia Drowning)   
-    All instruments, all vocal tracks
+
 * [Odyssey Of Fog: A Dungeon Stoner Compilation](https://astralobservatory.bandcamp.com/album/odyssey-of-fog-a-dungeon-stoner-compilation) (Astral Observatory, 2020)  
-    "Slow Dancing In The Dark" (as Ophelia Drowning)   
-    All instruments   
+    "Slow Dancing In The Dark" (as Ophelia Drowning)    
+
  [Apostils Against Hegemony, Vol. I: Transitive Properties](https://akashicenvoy.bandcamp.com/album/apostils-against-hegemony-vol-i-transitive-properties) (Akashic Envoy Records, 2020)   
     "Lovesong" (as Ophelia Drowning)   
-    All instruments, all vocal tracks
