@@ -8,15 +8,22 @@ weight = 1
 ### Series (Author and Illustrator)
 
 * [The Grizzly](http://welcometobearcreek.com)
-
+   Bear Creek Gazette (Stuart M. Buck, editor)     
+   2021-Present
 
 * [Tabula Rosetta](http://tabularosetta.com)  
-   The Blackwork Organization  
-   2018-Present
+   BLACKWORK
+   2017-2019
 
-* Funhouse  
-   The Blackwork Organization  
-   2015-2017
+*  Funhouse   
+   BLACKWORK  
+   2015-2016   
+
+### Regular Appearances   
+
+* [inxcomic](https://www.facebook.com/inxcomic) (Greg Russell, editor)      
+   Issues 5-11   
+   2020-2021
 
 ### Series (Illustrator)
 
@@ -36,19 +43,6 @@ weight = 1
    2019   
 
 ### Graphic Novels/Compilations
-
-* Mistakes Were Made: Early Work Of A Misguided Edgelord, 2011-2017   
-   Release Date TBA   
-   2020
-
-* Drinking Alone Digest, Volume 1: We Regret To Inform You That I Am Not Dead Yet   
-   Release Date TBA   
-   2020
-
-* MONOLITH: The Collected Literary Works Of Sarah Allen Reed, Volume 2   
-   The Blackwork Organization      
-   Release Date TBA   
-   2020   
 
 * [TRIAGE: The Collected Tabula Rosetta](https://www.goodreads.com/book/show/44986651-triage-2)    
    Volumes 1-3   
