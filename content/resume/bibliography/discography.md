@@ -1,7 +1,8 @@
-+++
-title = "Selected Discography"
-description = "A small selection of published recordings."
-+++
+---
+title: Audio Works
+description: Sample musical works.
+type: list
+---
 
 
 The following is a semi-complete compendium of audio projects I have released or taken part in over the years.
@@ -189,10 +190,10 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
       Guest vocals on "Tithe Of Teeth"
 
 * [Karnstein: "A Plague Upon Four Houses"](https://tfanpresents.bandcamp.com/album/a-plague-upon-four-houses) (TFAN Presents, 2020)   
-      Guest vocals on "Inverted Jewel"
+      Guest vocals on "Vampire's Pain"
 
 * [Rage Of Devils: "A Plague Upon Four Houses"](https://tfanpresents.bandcamp.com/album/a-plague-upon-four-houses) (TFAN Presents, 2020)   
-      Guest vocals on "Eroding Immunity"
+      Guest vocals on "Inverted Jewel"
 
 * [Everson Poe: "A Plague Upon Four Houses"](https://tfanpresents.bandcamp.com/album/a-plague-upon-four-houses) (TFAN Presents, 2020)   
       Guest vocals on "Makot Mitzrayim"
