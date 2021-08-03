@@ -42,7 +42,7 @@ languageCode = "en-us"
 
   [[menu.header]]
     identifier = "illustration"
-    name = "art and illustration"
+    name = "illustration samples"
     weight = 3
     url = "/illustration"
      [[menu.header]]
@@ -154,6 +154,10 @@ languageCode = "en-us"
        parent = "links"
        name = "merch"
        url = "https://shop.spreadshirt.com/sarahallenreed/"
+     [[menu.header]]
+       parent = "links"
+       name = "blackwork store"
+       url = "http://blackwork.org"
 
 
 
