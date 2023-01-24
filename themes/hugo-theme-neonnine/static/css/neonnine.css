@@ -1,0 +1,292 @@
+@import "fonts.css"; 
+@import "gallery.css"; 
+
+* {
+	margin: 0;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background-color: #09090a;
+	height: 100%;
+	font-family: 'OldNewspaperTypes';
+	font-size: 1.5em;
+	padding-top: 70px;
+	color: #fff;
+}
+
+/* Image properties */
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.floatleft{
+  max-width: 30%;
+  padding: 20px 20px 20px 20px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+
+.floatright{
+	max-width: 30%;
+    padding: 20px 20px 20px 20px;
+	width: auto;
+	height: auto;
+	float: right;
+  }
+
+/* Fonts */
+
+.font-header {
+	font-family: 'Remington Noiseless', monospace;
+}
+
+.font-paragraph {
+	font-family: 'OldNewspaperTypes', sans-serif;
+}
+
+h1,h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: 'Remington Noiseless', cursive;
+}
+
+h3,h4,h5,h6 {
+	font-family: 'OldNewspaperTypes', cursive;
+}
+
+a:link {
+ color: #ff3399;
+}
+
+a:visited {
+ color: #ff66cc;
+}
+
+a:hover {
+ color: #ffccff;
+ text-decoration: none;
+}
+
+a:active {
+ color: #66ffff;
+}
+
+/*Top bar layouts*/
+
+#terminal-prompt {
+	color: #ff66cc;
+}
+
+#terminal-prompt:hover {
+	color: #66ffff;
+}
+
+nav {
+	font-size: 1.3em;
+	font-family: 'OldNewspaperTypes';
+	color: #844f9b;
+}
+
+.navbar-brand{
+	color:#ff66cc;
+}
+
+.navbar-inverse{
+	background-image: url(/bg.png);
+	background-repeat: repeat;
+}
+
+.navbar-header{
+	background-color: #09090a;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #ff66cc;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+	color: #66ffff;
+}
+
+/* Top bar dropdown menu stuff */
+
+.dropdown-menu {
+  padding: 0px;
+/*
+  border: 2px;
+  border-color: #ff66cc;
+*/
+}
+
+.dropdown-menu li {
+	font-size: 1.3em;
+	color: #66ffff;
+	background-color: #09090a;
+	background-image: url(/bg2.png);
+	background-repeat: repeat;
+  border-top: 2px;
+  border-bottom: 0px;
+}
+
+.dropdown-menu li a {
+   color: #66ffff;
+}
+
+.dropdown-menu li a:hover{
+	background-color: #09090a;
+	background-image: url(/bg3.png);
+	background-repeat: repeat;
+   color: #ff66cc;
+}
+
+/* User details for home page */
+
+#user-name {
+	font-size: 5em;
+	text-transform: uppercase;
+}
+
+.user-description {
+	margin-bottom: 1em;
+	padding: 0px;
+	font-size: initial;
+	color: #66ffff;
+}
+
+.user-profile {
+	padding: 0;
+	color: #ff66cc;
+}
+
+.user-picture {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #fff;
+	margin-top: 20px;
+}
+
+i {
+	margin: 10px 20px 10px 20px;
+	color: #fff;
+}
+
+/* Content management list properties*/
+
+.post-link {
+	float: left;
+}
+
+.post-date {
+	float: right;
+}
+
+.post-header {
+	background-image: url(/bg.png);
+	background-repeat: repeat;
+	overflow: hidden;
+	padding: 0 5px 0 5px;
+}
+
+.post-header a {
+    color: #fff;
+}
+
+.post-header a:hover{
+    color: #ff66cc;
+	text-decoration: none;
+}
+
+.post-summary, .post-content{
+	clear: both;
+}
+
+.post-summary {
+	padding: 0 5px 0 5px;
+}
+
+.post-list-footer {
+	padding-bottom: 5px;
+}
+
+#post-list {
+	list-style: none;
+	padding-left: 0;
+}
+
+.post-list-item {
+	margin-top: 20px;
+	border-style: solid;
+	border-width: 0 0 3px 0;
+	border-color: #844f9b;
+}
+
+.post-comments {
+	padding-top: 10px;
+	border-top-style: solid;
+}
+
+.wrapper {
+	min-height: 100%;
+	margin: 0 auto -50px;
+}
+
+/* Footer details */
+
+.footer {
+	background-image: url(/bg.png);
+	background-repeat: repeat;
+	color: #ff66cc;
+	display: block;
+	border-top: 5px;
+	border-color: #ff66cc;
+	width: 100%;
+	padding: 10px;
+	height: 50px;
+}
+
+.push {
+	height: 50px;
+}
+
+/* Image gallery*/
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+div p {
+	text-align: justify;
+}
+
+td {
+	margin: 0 20px 0 20px;
+}
+
+/* Blog stuff.*/
+
+.caption{
+	font-family: 'Remington Noiseless', monospace;
+	color: #66ffff;
+	font-size: 10pt;
+	text-align: left;
+}
+
+hr {
+	max-width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}

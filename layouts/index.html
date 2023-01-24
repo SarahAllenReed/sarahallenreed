@@ -15,23 +15,32 @@
 					<img alt="profile-picture" class="img-responsive img-circle user-picture center-block" src="{{.}}">
 				</div>
 			</div>
-			{{ end }}
+		{{ end }}
+		<br/>
 			<div class="row">
 				<div class="col-xs-12 user-profile text-center">
 					<h1 id="user-name">{{ .Site.Params.Name }}</h1>
 				</div>
 			</div>
-			<br/>
-			<div class="row">
-				<div class="col-xs-12 user-social text-center">
-				{{ partial "social.html" . }}
-				</div>
-			</div>
+		<hr/>
 			<div class="row">
 				<div class="col-xs-12 user-description text-center">
 					<h3>{{ .Site.Params.About }}</h3>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-xs-12 user-description text-center">
+				{{ partial "links.html" . }}
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 user-social text-center">
+				{{ partial "social.html" . }}
+				</div>
+			</div>
+		<br/>
+		<hr/>
+		<br/>
 
 			<div class="push"></div>
 		</div>

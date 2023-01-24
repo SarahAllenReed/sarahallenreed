@@ -1,13 +1,14 @@
 ---
-title: Audio Works
+title: "Selected Discography And Audio Works"
 description: Sample musical works.
 type: list
+weight: 3
 ---
 
 
 The following is a semi-complete compendium of audio projects I have released or taken part in over the years.
 
-If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please email me.](mailto:sketchreed@gmail.com)
+If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please email me.](mailto:sarah@sarahallenreed.com)
 
 ### Radio Work
 

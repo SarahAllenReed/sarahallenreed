@@ -7,24 +7,24 @@ type: list
 
 The following is a semi-complete compendium of audio projects I have released or taken part in over the years.
 
-If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please email me.](mailto:sketchreed@gmail.com)
+If you would like to hire me to produce a soundtrack for your game or film, or if your label would be interested in signing me, [please email me.](mailto:sarah@sarahallenreed.com)
 
 ### Radio Work
 
 * Sarah Allen Reed And The Jazz Program
-    2021-present   
-    Host   
-    [datafruits.fm](https://datafruits.fm)
+   2021-present   
+   Host   
+   [datafruits.fm](https://datafruits.fm)
 
 * [The Forest At Night](http://theforestatnight.com)  
-    2020-present   
-    Host   
-    Monday nights at 0000 MST (Tuesday mornings 0200 EST) on [Radio Dark Tunnel](https://radio-dark-tunnel.net/)   
+   2020-2022   
+   Host   
+   [Radio Dark Tunnel](https://radio-dark-tunnel.net/)   
 
 * [identity.null](http://www.identitynullradio.com)  
-    2020-2021
-    Host   
-    [datafruits.fm](https://datafruits.fm)   
+   2020-2021   
+   Host   
+   [datafruits.fm](https://datafruits.fm)   
 
 
 ## Selected Recordings

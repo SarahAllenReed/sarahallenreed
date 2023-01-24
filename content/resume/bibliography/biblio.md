@@ -1,7 +1,7 @@
 +++
 title = "Selected Bibliography"
 description = "A small selection of my published bibliography."
-weight = 1
+weight = 2
 +++
 
 

@@ -1,14 +1,95 @@
 baseurl = "http://sarahallenreed.com"
 title = "Sarah Allen Reed, Goblin Queen."
-theme = "hugo-theme-nix"
+theme = "hugo-theme-neonnine"
 languageCode = "en-us"
 
 [menu]
 
+
+  [[menu.header]]
+    identifier = "illustration"
+    name = "illustration"
+    weight = 2
+    url = "/illustration"
+     [[menu.header]]
+       parent = "illustration"
+       name = "full-color illustration"
+       weight = 1
+       url = "/illustration/fullcolor"
+     [[menu.header]]
+       parent = "illustration"
+       name = "black and white illustration"
+       weight = 2
+       url = "/illustration/blackandwhite"
+#     [[menu.header]]
+#       parent = "illustration"
+#       name = "poster design"
+#       weight = 3
+#       url = "/illustration/posterdesign"
+     [[menu.header]]
+       parent = "illustration"
+       name = "logo design"
+       weight = 4
+       url = "/illustration/logodesign"
+#     [[menu.header]]
+#       parent = "illustration"
+#       name = "book layout samples"
+#       weight = 5
+#       url = "/illustration/booklayoutsamples/"
+#     [[menu.header]
+#       parent = "illustration"
+#       name = "package design"
+#       weight = 6
+#       url = "/illustration/package"
+#     [[menu.header]]
+#       parent = "illustration"
+#       name = "personal work and fine art"
+#       weight = 7
+#       url = "/illustration/personal"
+
+
+  [[menu.header]]
+    identifier = "comics"
+    name = "comic art"
+    weight = 3
+    url = "/comics"
+     [[menu.header]]
+       parent = "comics"
+       name = "selected sequential art"
+       weight = 1
+       url = "/comics/samplestory0"
+     [[menu.header]]
+       parent = "comics"
+       name = "sample excerpt: the grizzly"
+       weight = 2
+       url = "/comics/samplestory2"
+#     [[menu.header]]
+#       parent = "comics"
+#       name = "sample excerpt: our lady maven"
+#       weight = 3
+#       url = "/comics/samplestory1"
+     [[menu.header]]
+       parent = "comics"
+       name = "sample story: bukowski"
+       weight = 4
+       url = "/comics/samplestory3"
+#     [[menu.header]]
+#       parent = "comics"
+#       name = "sample story 4"
+#       url = "/comics/samplestory4"
+#     [[menu.header]]
+#       parent = "comics"
+#       name = "sample story 5"
+#       url = "/comics/samplestory5"
+#     [[menu.header]]
+#       parent = "comics"
+#       name = "sample story 6"
+#       url = "/comics/samplestory6"
+
   [[menu.header]]
     identifier = "audio"
-    name = "audio works"
-    weight = 1
+    name = "audio"
+    weight = 4
      [[menu.header]]
        parent = "audio"
        weight = 1
@@ -32,94 +113,17 @@ languageCode = "en-us"
      [[menu.header]]
        parent = "audio"
        weight = 5
-       name = "solo symphonic work"
+       name = "solo work"
        url = "https://sarahallenreed.bandcamp.com"
      [[menu.header]]
        parent = "audio"
        weight = 6
-       name = "radio shows, other bands, and more"
+       name = "radio shows & more"
        url = "/audio"
-
-  [[menu.header]]
-    identifier = "illustration"
-    name = "illustration samples"
-    weight = 3
-    url = "/illustration"
-     [[menu.header]]
-       parent = "illustration"
-       name = "full-color illustration"
-       weight = 1
-       url = "/illustration/fullcolor"
-     [[menu.header]]
-       parent = "illustration"
-       name = "black and white illustration"
-       weight = 2
-       url = "/illustration/blackandwhite"
-#     [[menu.header]]
-#       parent = "illustration"
-#       name = "poster design"
-#       weight = 3
-#       url = "/illustration/posterdesign"
-     [[menu.header]]
-       parent = "illustration"
-       name = "logo design"
-       weight = 4
-       url = "/illustration/logodesign"
-     [[menu.header]]
-       parent = "illustration"
-       name = "book layout samples"
-       weight = 5
-       url = "/illustration/booklayoutsamples/"
-     [[menu.header]]
-       parent = "illustration"
-       name = "package design"
-       weight = 6
-       url = "/illustration/fullpackage"
-#     [[menu.header]]
-#       parent = "illustration"
-#       name = "personal work and fine art"
-#       weight = 7
-#       url = "/illustration/personal"
-
-
-  [[menu.header]]
-    identifier = "comics"
-    name = "sequential art samples"
-    weight = 4
-    url = "/comics"
-     [[menu.header]]
-       parent = "comics"
-       name = "selected sequential art"
-       url = "/comics/sampleart1"
-     [[menu.header]]
-       parent = "comics"
-       name = "sample story: barren chapter 1"
-       url = "/comics/samplestory1"
-     [[menu.header]]
-       parent = "comics"
-       name = "sample story: i am beginning to empathize with bukowski"
-       url = "/comics/samplestory2"
-     [[menu.header]]
-       parent = "comics"
-       name = "sample story: the grizzly daily strips"
-       url = "/comics/samplestory3"
-#     [[menu.header]]
-#       parent = "comics"
-#       name = "sample story 4"
-#       url = "/comics/samplestory4"
-#     [[menu.header]]
-#       parent = "comics"
-#       name = "sample story 5"
-#       url = "/comics/samplestory5"
-#     [[menu.header]]
-#       parent = "comics"
-#       name = "sample story 6"
-#       url = "/comics/samplestory6"
-
   [[menu.header]]
     weight = 5
     identifier = "resume"
-    name = "resume, bio, and hiring info"
+    name = "info + resume"
     url = "/resume"
      [[menu.header]]
        parent = "resume"
@@ -129,47 +133,73 @@ languageCode = "en-us"
     [[menu.header]]
        parent = "resume"
        weight = 2
-       name = "bibliography and discography"
+       name = "bibliography & discography"
        url = "/resume/bibliography/"
     [[menu.header]]
       parent = "resume"
       weight = 3
-      name = "past clients and peer reviews"
+      name = "client & peer reviews"
       url = "/resume/clientreview/"
     [[menu.header]]
       parent = "resume"
       weight = 4
-      name = "rates, policies, and information"
+      name = "rates, policies, & information"
       url = "/resume/hireme"
 
   [[menu.header]]
-    identifier = "links"
-    name = "patreon, shop, and more"
+    identifier = "blog"
+    name = "blog"
     weight = 6
-     [[menu.header]]
-       parent = "links"
-       name = "patreon"
-       url = "https://patreon.com/sarahallenreed"
-     [[menu.header]]
-       parent = "links"
-       name = "merch"
-       url = "https://shop.spreadshirt.com/sarahallenreed/"
-     [[menu.header]]
-       parent = "links"
-       name = "blackwork store"
-       url = "http://blackwork.org"
+      [[menu.header]]
+        parent = "blog"
+        name = "recent posts"
+        weight = 1
+        url = "/blog"
 
-
+  [[menu.header]]
+    identifier = "links"
+    name = "links"
+    weight = 7
+     [[menu.header]]
+      parent = "links"
+      name = "patreon"
+      weight = 4
+      url = "https://patreon.com/sarahallenreed"
+     [[menu.header]]
+      parent = "links"
+      name = "merch"
+      weight = 4
+      url = "https://shop.spreadshirt.com/sarahallenreed/"
+     [[menu.header]]
+      parent = "links"
+      name = "blackwork store"
+      weight = 4
+      url = "http://blackwork.org"
 
 [params]
   Name = "Sarah Allen Reed"
-  Email = "sketchreed@gmail.com"
+  Email = "sarah@sarahallenreed.com"
   ProfilePicture = "/profile.jpg"
   Favicon = "/favicon.ico"
   HeaderHostname = "sarahallenreed.com"
   About = "Cartoonist. Author. Musician. Undisputed Queen Of Goblins."
   InstagramID = "sarahallenreed"
-  TwitterID = "sarahallenreed"
-  BandcampID = "sarahallenreed"
+  Link1Text = "Who Is Sarah Allen Reed?"
+  Link1Link = "/resume/bio"
+  Link2Text = "Illustration Samples"
+  Link2Link = "/illustration"
+  Link3Text = "Sequential Art Samples"
+  Link3Link = "/comics"
+  Link4Text = "Rates And Hiring Info"
+  Link4Link = "/resume/hireme"
+  Link5Text = "Blog"
+  Link5Link = "/blog"
+
+##  TwitterID = "sarahallenreed"
+## BandcampID = "sarahallenreed"
   GithubID = "sarahallenreed"
-  PatreonID = "sarahallenreed"
+##  PatreonID = "sarahallenreed"
+
+[markup.goldmark.renderer]
+unsafe= true
+

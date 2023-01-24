@@ -1,6 +1,7 @@
 +++
 title = "Editorial Roles, Columns, And Other Writings"
 description = "Other places you can find my work."
+weight = 4
 +++
 <!--
 The following is a semi-complete list of companies and publications I have done illustration for, as well as relevant links.
