@@ -73,10 +73,10 @@ languageCode = "en-us"
        name = "sample story: bukowski"
        weight = 4
        url = "/comics/samplestory3"
-#     [[menu.header]]
-#       parent = "comics"
-#       name = "sample story 4"
-#       url = "/comics/samplestory4"
+     [[menu.header]]
+       parent = "comics"
+       name = "sample excerpt: our lady maven"
+       url = "/comics/samplestory4"
 #     [[menu.header]]
 #       parent = "comics"
 #       name = "sample story 5"
