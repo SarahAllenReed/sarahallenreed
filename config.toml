@@ -147,16 +147,6 @@ languageCode = "en-us"
       url = "/resume/hireme"
 
   [[menu.header]]
-    identifier = "blog"
-    name = "blog"
-    weight = 6
-      [[menu.header]]
-        parent = "blog"
-        name = "recent posts"
-        weight = 1
-        url = "/blog"
-
-  [[menu.header]]
     identifier = "links"
     name = "links"
     weight = 7
@@ -168,13 +158,18 @@ languageCode = "en-us"
      [[menu.header]]
       parent = "links"
       name = "merch"
-      weight = 4
+      weight = 2
       url = "https://shop.spreadshirt.com/sarahallenreed/"
      [[menu.header]]
       parent = "links"
       name = "blackwork store"
-      weight = 4
+      weight = 3
       url = "http://blackwork.org"
+     [[menu.header]]
+      parent = "links"
+      name = "blog"
+      weight = 1
+      url = "/blog"
 
 [params]
   Name = "Sarah Allen Reed"
