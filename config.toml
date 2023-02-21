@@ -63,11 +63,11 @@ languageCode = "en-us"
        name = "sample excerpt: the grizzly"
        weight = 2
        url = "/comics/samplestory2"
-#     [[menu.header]]
-#       parent = "comics"
-#       name = "sample excerpt: our lady maven"
-#       weight = 3
-#       url = "/comics/samplestory1"
+     [[menu.header]]
+       parent = "comics"
+       name = "sample story: on cicadas"
+       weight = 3
+       url = "/comics/samplestory1"
      [[menu.header]]
        parent = "comics"
        name = "sample story: bukowski"
