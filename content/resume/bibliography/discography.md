@@ -17,12 +17,12 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
     Host   
     [datafruits.fm](https://datafruits.fm)
 
-* [The Forest At Night](http://theforestatnight.com)  
+* [The Forest At Night](https://theforestatnight.com)  
     2020-present   
     Host   
     Monday nights at 0000 MST (Tuesday mornings 0200 EST) on [Radio Dark Tunnel](https://radio-dark-tunnel.net/)   
 
-* [identity.null](http://www.identitynullradio.com)  
+* [identity.null](https://www.identitynullradio.com)  
     2020-2021
     Host   
     [datafruits.fm](https://datafruits.fm)   

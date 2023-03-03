@@ -56,13 +56,13 @@ If you would like my illustrative talents on your next release, [please click he
 
 ### Spot Illustrations
 
-*  [DAZED Magazine](http://dazeddigital.com/)  
+*  [DAZED Magazine](https://dazeddigital.com/)  
    _"Heartfelt notes to Chelsea Manning"_   
-   [2019](http://www.dazeddigital.com/politics/article/43842/1/chelsea-manning-solitary-confinement-allies-friends-share-support)
+   [2019](https://www.dazeddigital.com/politics/article/43842/1/chelsea-manning-solitary-confinement-allies-friends-share-support)
 
-*  [Winedrunk Sidewalk](http://winedrunksidewalk.blogspot.com/)  
+*  [Winedrunk Sidewalk](https://winedrunksidewalk.blogspot.com/)  
    Women's History Month   
-   [2018](http://winedrunksidewalk.blogspot.com/2018/03/day-four-hundred-and-six.html) & [2019](http://winedrunksidewalk.blogspot.com/2019/03/day-eight-hundred-and-one.html?m=1)
+   [2018](https://winedrunksidewalk.blogspot.com/2018/03/day-four-hundred-and-six.html) & [2019](https://winedrunksidewalk.blogspot.com/2019/03/day-eight-hundred-and-one.html?m=1)
 
 * [Swampcone Magazine](https://swampconemag.net/) (Anna Firth, editor)
    "Do You Remember Me?"/"I Hate The Light For Taking You Away"   

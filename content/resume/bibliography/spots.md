@@ -60,7 +60,7 @@ If you would like my illustrative talents on your next release, [please click he
    Abrams ComicArts   
    2019
 
-* [Call Out Comics](http://rotsztain.com/projects/call_out.html) (Jonathan Rotsztain, editor)
+* [Call Out Comics](https://rotsztain.com/projects/call_out.html) (Jonathan Rotsztain, editor)
    "You May Do No Such Thing"   
    Issue 4   
    2019   

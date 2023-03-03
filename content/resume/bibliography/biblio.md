@@ -7,11 +7,11 @@ weight = 2
 
 ### Series (Author and Illustrator)
 
-* [The Grizzly](http://welcometobearcreek.com)
+* [The Grizzly](https://welcometobearcreek.com)
    Bear Creek Gazette (Stuart M. Buck, editor)     
    2021-Present
 
-* [Tabula Rosetta](http://tabularosetta.com)  
+* [Tabula Rosetta](https://tabularosetta.com)  
    BLACKWORK
    2017-2019
 
@@ -27,7 +27,7 @@ weight = 2
 
 ### Series (Illustrator)
 
-* [The Teletypist](http://theteletypist.com) (as Sister Sarah Allen Reed)   
+* [The Teletypist](https://theteletypist.com) (as Sister Sarah Allen Reed)   
    Spot Illustrations   
    2019-Present
 

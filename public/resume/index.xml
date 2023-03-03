@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Sarah Allen Reed, Goblin Queen.</title>
-    <link>http://sarahallenreed.com/resume/</link>
+    <link>https://sarahallenreed.com/resume/</link>
     <description>Recent content in Resume on Sarah Allen Reed, Goblin Queen.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://sarahallenreed.com/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sarahallenreed.com/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who Is Sarah Allen Reed?</title>
-      <link>http://sarahallenreed.com/resume/bio/</link>
+      <link>https://sarahallenreed.com/resume/bio/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://sarahallenreed.com/resume/bio/</guid>
+      <guid>https://sarahallenreed.com/resume/bio/</guid>
       <description>Born with a decidedly different name and assigned gender near Saint Louis, Missouri, Sarah picked up a pen at the age of eight and drew her first comic book, and&amp;ndash;despite the world&amp;rsquo;s valiant attempts to stop her&amp;ndash;that&amp;rsquo;s more or less what she’s been doing since. Her work deals with loss, queer issues, her own battles with mental illness and homelessness, and the psychology of trauma and religion.
 She is the cartoonist behind Our Lady Maven, Tabula Rosetta, The Grizzly: Private Eye, and many others, and currently works providing illustrations and cover art for multiple record labels, publishers, and magazines the world over.</description>
     </item>
     
     <item>
       <title>Rates, Policies, And Information</title>
-      <link>http://sarahallenreed.com/resume/hireme/</link>
+      <link>https://sarahallenreed.com/resume/hireme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sarahallenreed.com/resume/hireme/</guid>
+      <guid>https://sarahallenreed.com/resume/hireme/</guid>
       <description>Rates And Policies All rates and terms listed are subject to change at any time, and I up these rates once a year at minimum to keep up with my cost of living and ever-expanding qualifications. I do allow freelance clients the option to keep my services on retainer for a negotiable fixed rate for those who would see themselves requiring my services and qualifications on a more frequent basis; for more information on this, please email me.</description>
     </item>
     
