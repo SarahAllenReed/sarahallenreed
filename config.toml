@@ -123,7 +123,7 @@ languageCode = "en-us"
   [[menu.header]]
     weight = 5
     identifier = "resume"
-    name = "info + resume"
+    name = "info+resume"
     url = "/resume"
      [[menu.header]]
        parent = "resume"
@@ -145,7 +145,36 @@ languageCode = "en-us"
       weight = 4
       name = "rates, policies, & information"
       url = "/resume/hireme"
-
+  [[menu.header]]
+    identifier = "social"
+    name = "blog+social"
+    weight = 6
+     [[menu.header]]
+      parent = "social"
+      name = "my blog"
+      weight = 1
+      url = "/blog"
+     [[menu.header]]
+      parent = "social"
+      name = "mastodon"
+      weight = 2
+      url = "https://defcon.social/@sarahallenreed"
+     [[menu.header]]
+      parent = "social"
+      name = "pillowfort"
+      weight = 3
+      url = "https://www.pillowfort.social/sarahallenreed"
+     [[menu.header]]
+      parent = "social"
+      name = "cohost"
+      weight = 4
+      url = "https://cohost.org/sarahallenreed"
+     [[menu.header]]
+      parent = "social"
+      name = "github"
+      weight = 4
+      url = "https://github.com/sarahallenreed"
+      
   [[menu.header]]
     identifier = "links"
     name = "links"
@@ -167,9 +196,9 @@ languageCode = "en-us"
       url = "https://blackwork.org"
      [[menu.header]]
       parent = "links"
-      name = "blog"
+      name = "datafruits.fm"
       weight = 1
-      url = "/blog"
+      url = "https://datafruits.fm"
 
 [params]
   Name = "Sarah Allen Reed"
@@ -178,7 +207,6 @@ languageCode = "en-us"
   Favicon = "/favicon.ico"
   HeaderHostname = "sarahallenreed.com"
   About = "Cartoonist. Author. Musician. Undisputed Queen Of Goblins."
-  InstagramID = "sarahallenreed"
   Link1Text = "Who Is Sarah Allen Reed?"
   Link1Link = "/resume/bio"
   Link2Text = "Illustration Samples"
@@ -192,7 +220,7 @@ languageCode = "en-us"
 
 ##  TwitterID = "sarahallenreed"
 ## BandcampID = "sarahallenreed"
-  GithubID = "sarahallenreed"
+##  GithubID = "sarahallenreed"
 ##  PatreonID = "sarahallenreed"
 
 [markup.goldmark.renderer]
