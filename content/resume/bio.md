@@ -15,7 +15,7 @@ Sonically, her voice can be found as the lead vocalist and main composer of [Oph
 
 When she's not busy plowing away at her drawing board, singing dirges in the moonlight, or wandering throughout the United States, she can often be found tending to her flowers, cooking, working out, painting, or floating above the coast at midnight, waiting for the tide to wrap her in its loving embrace and take her away.
 
-She currently resides in a safehouse in an unknown location with her service dog Polyhymnia and frequent collaborator Autumn ████████; although, as with everything else in life, this is subject to change.
+She currently resides in a safehouse in an unknown location with her service dog Polyhymnia and frequent collaborator Autumn Redacted; although, as with everything else in life, this is subject to change.
 
 If you would like to hire Sarah for your next project, [please click here.](/resume/hireme)
 
