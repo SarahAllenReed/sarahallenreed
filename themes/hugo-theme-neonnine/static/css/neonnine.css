@@ -1,5 +1,6 @@
 @import "fonts.css"; 
 @import "gallery.css"; 
+@import "sharebuttons.css"; 
 
 * {
 	margin: 0;
@@ -23,6 +24,12 @@ body {
 img {
   max-width: 100%;
   display: block;
+}
+
+.sharebar{
+  margin: auto;
+  padding: 10px;
+  text-align: center;
 }
 
 img.center {
