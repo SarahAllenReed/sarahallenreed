@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Terminus', monospace",
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file"
+        }
+    ]
+}

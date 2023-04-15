@@ -7,7 +7,7 @@ weight = 2
 
 ### Series (Author and Illustrator)
 
-* [The Grizzly](https://welcometobearcreek.com)
+* [The Grizzly](/comics/samplestory2)
    Bear Creek Gazette (Stuart M. Buck, editor)     
    2021-Present
 

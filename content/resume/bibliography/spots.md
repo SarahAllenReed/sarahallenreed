@@ -16,19 +16,19 @@ If you would like my illustrative talents on your next release, [please click he
 
 *  [3moon Magazine](https://3moonmagazine.com)   
    Art Director   
-   2021-present   
+   2021-2022  
 
 *  [BLACKWORK](https://blackwork.org)  
    Editor and Publisher   
    2015-present
 
+<!--
 ### Staff Writing Positions
 
 
 * [Bear Creek Gazette](https://welcometobearcreek.com) (Stuart M. Buck, editor)      
    Cartoonist, "The Grizzly", Issue 1-present     
    2021   
-<!--
 * [The Forest At Night](https://www.theforestatnight.com/)   
   Staff Writer   
   2020-Present   
