@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio Works on Sarah Allen Reed, Goblin Queen.</title>
+    <link>https://sarahallenreed.com/audio/</link>
+    <description>Recent content in Audio Works on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sarahallenreed.com/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

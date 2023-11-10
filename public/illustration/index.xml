@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration Samples on Sarah Allen Reed, Goblin Queen.</title>
+    <link>https://sarahallenreed.com/illustration/</link>
+    <description>Recent content in Illustration Samples on Sarah Allen Reed, Goblin Queen.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sarahallenreed.com/illustration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Downloadable Book Layout Samples</title>
+      <link>https://sarahallenreed.com/illustration/booklayoutsamples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarahallenreed.com/illustration/booklayoutsamples/</guid>
+      <description>Below are a small selection of downloadable examples of full booklets and magazines I have designed, either for various clients or for BLACKWORK. All .PDFs included here are for review purposes only, and all work has been made available here with the express permission of the publishers.
+If you would like to hire me for your next project, please click here.
+    3moon Magazine Issue 6   3moon Magazine Issue 6.</description>
+    </item>
+    
+    <item>
+      <title>Sample Black And White Illustration Samples</title>
+      <link>https://sarahallenreed.com/illustration/blackandwhite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarahallenreed.com/illustration/blackandwhite/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}      Illustration for &#34;Husband Of The Night&#34; by Robyn Singer, for The Dark Side Of Purity. Published by Band Of Bards, 2022.    Illustration for &#34;Cryptic Explorers.&#34; Tempest Tome, 2019.    Illustration for the re-release of the Old Nick album &#34;Flying Ointment&#34;. Tempest Tome, 2021.    Interior illustration for Luminescent Machinations, released by Neon Hemlock.</description>
+    </item>
+    
+    <item>
+      <title>Sample Full Color Illustration Samples</title>
+      <link>https://sarahallenreed.com/illustration/fullcolor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarahallenreed.com/illustration/fullcolor/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}      Poster for the Jazzy Fuckin&#39; Holidays marathon on Datafruits. 2023..    Cover art for Hike by Mark Ward. Bear Creek Press, 2022.    Cover art for Tentacle Head by Rick Claypool. Bear Creek Press, 2022.    &amp;quot;Death To Fascists&amp;quot; trading card art for Our Lady Maven. 2023.     Cover art for the Jenn Taiga album &#34;</description>
+    </item>
+    
+    <item>
+      <title>Sample Logo Design Work</title>
+      <link>https://sarahallenreed.com/illustration/logodesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sarahallenreed.com/illustration/logodesign/</guid>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}      Logo design for Verdigris. 2021.    Logo design for 3moon Magazine. 2021.    Logo design for Greenest Girl Recycling. 2021.    Logo design for Tech Witch. 2020.    Logo design for Cauldron And Vice. 2021.    Logo design for Eldritch Wizardry.. 2019.    Logo design for Diametric Literary Magazine.</description>
+    </item>
+    
+  </channel>
+</rss>

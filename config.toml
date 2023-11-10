@@ -133,13 +133,20 @@ languageCode = "en-us"
     [[menu.header]]
        parent = "resume"
        weight = 2
-       name = "bibliography & discography"
-       url = "/resume/bibliography/"
+       name = "selected bibliography"
+       url = "/resume/biblio"
     [[menu.header]]
-      parent = "resume"
-      weight = 3
-      name = "client & peer reviews"
-      url = "/resume/clientreview/"
+       parent = "resume"
+       weight = 2
+       name = "selected discography"
+       url = "/resume/discography"
+ 
+#    [[menu.header]]
+#      parent = "resume"
+#      weight = 3
+#      name = "client & peer reviews"
+#      url = "/resume/clientreview/"
+
     [[menu.header]]
       parent = "resume"
       weight = 4
@@ -181,16 +188,16 @@ languageCode = "en-us"
       name = "mastodon"
       weight = 4
       url = "https://defcon.social/@sarahallenreed"
-     [[menu.header]]
-      parent = "socials"
-      name = "pillowfort"
-      weight = 4
-      url = "https://www.pillowfort.social/sarahallenreed"
-     [[menu.header]]
-      parent = "socials"
-      name = "cohost"
-      weight = 4
-      url = "https://cohost.org/sarahallenreed"
+#     [[menu.header]]
+#      parent = "socials"
+#      name = "pillowfort"
+#      weight = 4
+#      url = "https://www.pillowfort.social/sarahallenreed"
+#     [[menu.header]]
+#      parent = "socials"
+#      name = "cohost"
+#      weight = 4
+#      url = "https://cohost.org/sarahallenreed"
      [[menu.header]]
       parent = "socials"
       name = "github"
@@ -210,14 +217,14 @@ languageCode = "en-us"
   Link2Link = "/illustration"
   Link3Text = "Sequential Art Samples"
   Link3Link = "/comics"
-  Link4Text = "Rates And Hiring Info"
-  Link4Link = "/resume/hireme"
+  Link4Text = "Resume And Hiring Info"
+  Link4Link = "/resume"
   Link5Text = "Blog"
-  Link5Link = "/blog"
+  Link5Link = "https://truckstop.coffee"
 
 ##  TwitterID = "sarahallenreed"
 ## BandcampID = "sarahallenreed"
-##  GithubID = "sarahallenreed"
+GithubID = "sarahallenreed"
 ##  PatreonID = "sarahallenreed"
 
 [markup.goldmark.renderer]

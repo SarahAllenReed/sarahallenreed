@@ -6,13 +6,17 @@ weight = 1
 
 ---
 
-## Rates And Policies
+### General Policies
+
+---
 
 All rates and terms listed are subject to change at any time, and I up these rates once a year at minimum to keep up with my cost of living and ever-expanding qualifications. I do allow freelance clients the option to keep my services on retainer for a negotiable fixed rate for those who would see themselves requiring my services and qualifications on a more frequent basis; for more information on this, [please email me.](mailto:sarah@sarahallenreed.com)
 
 ---
 
-## Skillset
+### Skillset
+
+---
 
 The pieces of my skillset with which I am available for work currently includes, but is not limited to, the following:
 
@@ -33,6 +37,10 @@ Finally, if you would like to learn about my techniques, I am also available for
 
 ---
 
+### Rate Summaries
+
+---
+
 #### Design And Illustration ---
 
 * My current minimum rate for illustration and design (including original art, layout work, package design, most short sequential art pieces, and most other visual work) is _65/hr, minimum 2 hours._
@@ -49,13 +57,19 @@ Finally, if you would like to learn about my techniques, I am also available for
 
 * ___All payments are final and non-refundable.___
 
+---
+
 #### Logo Design ---
 
 * Most logo designs are ran at a flat rate of $150, paid up front. For more information, [please email me.](mailto:sarah@sarahallenreed.com)
 
+---
+
 #### Sequential/Comics Art ---
 
 * I am currently available for long-term and short-term sequential art assignments. The rate listed above for design and illustration applies for most short (four pages or less) sequential comics pieces only; if what you would need from me is more along the lines of a series, a graphic novel, or anything else longer than four pages or so, a per-page rate, contract, and payment plan will be negotiated during the initial discussions.
+
+---
 
 #### Musical And Auditory Work ---
 
@@ -64,6 +78,8 @@ Finally, if you would like to learn about my techniques, I am also available for
 * I do not do ghostwriting for musical projects, and will insist upon a production credit on any musical work I am a part of.
 
 * If you, your venue, or your promotions agency would like to book one of my bands, I am often more than happy to work with you; [please reach out via email](mailto:sarah@sarahallenreed.com) to discuss any plans you may have to that end.
+
+---
 
 #### Web Design ---
 
