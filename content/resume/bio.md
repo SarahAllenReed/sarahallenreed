@@ -57,7 +57,7 @@ You can also email me at [sarah@sarahallenreed.com](mailto:sarah@sarahallenreed.
 >Sarah Allen Reed   
 >C/O BLACKWORK, LLC   
 >4343 16th St #166   
->Moline, IL 61625   
+>Moline, IL 61265   
 
 Please note that the above information is explicitly intended for inquiries relating to my work. Please, no personal inquiries, missed connections, confessions of guilt, pleas for reconnection, demands for reconcilliation, love letters, hate letters, or solicitations to join the Columbia Record Club. Thank you.
 
