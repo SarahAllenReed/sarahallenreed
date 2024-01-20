@@ -27,7 +27,7 @@ If you would like my illustrative talents on your next release, [please click he
    2019-2021   
 
 *  [The Teletypist](https://theteletypist.com/)   
-   Lead Designer (as Sister Sarah Allen Reed)   
+   Lead Designer (as Sister Piper Bly)   
    2019   
 
 ---

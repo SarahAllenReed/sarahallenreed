@@ -57,7 +57,7 @@ If you would like my illustrative talents on your next release, [please click he
    with Autumn Redacted    
    2021   
 
-* [The Teletypist](https://theteletypist.com) (as Sister Sarah Allen Reed)   
+* [The Teletypist](https://theteletypist.com) (as Sister Piper Bly)   
    Illustration & Design   
    with Emily Crose
    2019-Present
@@ -83,7 +83,7 @@ If you would like my illustrative talents on your next release, [please click he
    The Blackwork Organization    
    2018-2019   
 
-* [MONOLITH: The Collected Literary Works Of Sarah Allen Reed, Volume 1](https://www.goodreads.com/book/show/43502608-monolith)   
+* [MONOLITH: The Collected Literary Works Of Piper Bly, Volume 1](https://www.goodreads.com/book/show/43502608-monolith)   
    The Blackwork Organization    
    2019   
 

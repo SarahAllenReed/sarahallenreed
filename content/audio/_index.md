@@ -11,7 +11,7 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
 
 ### Radio Work
 
-* Sarah Allen Reed And The Jazz Program
+* Piper Bly And The Jazz Program
    2021-present   
    Host   
    [datafruits.fm](https://datafruits.fm)
@@ -210,7 +210,7 @@ If you would like to hire me to produce a soundtrack for your game or film, or i
     "call of the red sea" (as Shibito)
 
 * [A Fableglade Compendium, Vol. 1](https://hopeversushaterecords.bandcamp.com/) (Fableglade Records, 2021)   
-    "Overture For The Glade Dweller's Adventures, from Symphony No. 1, 'Among The Glade'" (as Sarah Allen Reed)  
+    "Overture For The Glade Dweller's Adventures, from Symphony No. 1, 'Among The Glade'" (as Piper Bly)  
 
 * [Hope In The Face Of Fear](https://hopeversushaterecords.bandcamp.com/) (Hope Vs. Hate Records, 2020)   
     "...Can We Get This Right?" (as Ophelia Drowning)   

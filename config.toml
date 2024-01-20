@@ -1,5 +1,5 @@
 baseurl = "https://sarahallenreed.com"
-title = "Sarah Allen Reed, Goblin Queen."
+title = "Piper Bly, Goblin Queen."
 theme = "hugo-theme-neonnine"
 languageCode = "en-us"
 
@@ -205,13 +205,13 @@ languageCode = "en-us"
       url = "https://github.com/sarahallenreed"
 
 [params]
-  Name = "Sarah Allen Reed"
+  Name = "Piper Bly"
   Email = "sarah@sarahallenreed.com"
   ProfilePicture = "/profile.jpg"
   Favicon = "/favicon.ico"
   HeaderHostname = "sarahallenreed.com"
   About = "Cartoonist. Author. Musician. Undisputed Queen Of Goblins."
-  Link1Text = "Who Is Sarah Allen Reed?"
+  Link1Text = "Who Is Piper Bly?"
   Link1Link = "/resume/bio"
   Link2Text = "Illustration Samples"
   Link2Link = "/illustration"

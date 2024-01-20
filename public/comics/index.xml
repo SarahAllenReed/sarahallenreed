@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comic Art Samples on Sarah Allen Reed, Goblin Queen.</title>
+    <title>Comic Art Samples on Piper Bly, Goblin Queen.</title>
     <link>https://sarahallenreed.com/comics/</link>
-    <description>Recent content in Comic Art Samples on Sarah Allen Reed, Goblin Queen.</description>
+    <description>Recent content in Comic Art Samples on Piper Bly, Goblin Queen.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sarahallenreed.com/comics/samplestory0/</guid>
-      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}      &#34;You May Do No Such Thing&#34;. Call Out Comics Issue 4, 2019.  --   &#34;The Garden Of Earthly Delights&#34;, page 1. Written by Rosemary Petite, illustrated by Sarah Allen Reed. 2019.    &#34;The Garden Of Earthly Delights&#34;, page 2. Written by Rosemary Petite, illustrated by Sarah Allen Reed. 2019.    &#34;</description>
+      <description>{{ .Title }} &amp;middot; {{ .Site.Title }}      &#34;You May Do No Such Thing&#34;. Call Out Comics Issue 4, 2019.  --   &#34;The Garden Of Earthly Delights&#34;, page 1. Written by Rosemary Petite, illustrated by Piper Bly. 2019.    &#34;The Garden Of Earthly Delights&#34;, page 2. Written by Rosemary Petite, illustrated by Piper Bly. 2019.    &#34;Mr. Ducky In: Therapy Time!</description>
     </item>
     
     <item>

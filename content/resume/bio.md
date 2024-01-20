@@ -1,5 +1,5 @@
 +++
-title = "Who Is Sarah Allen Reed?"
+title = "Who Is Piper Bly?"
 date = "2014-04-09"
 weight = 1
 +++
@@ -14,7 +14,7 @@ weight = 1
 
 <img src="/about2.png" class="floatright"/>
 
-Born with a decidedly different name and assigned gender near Saint Louis, Missouri, Sarah picked up a pen at the age of eight and drew her first comic book, and--despite the world's valiant attempts to stop her--that's more or less what she's been doing since. Her work deals with loss, queer issues, her own battles with mental illness and homelessness, and the psychology of trauma and religion.
+Born with a decidedly different name and assigned gender near Saint Louis, Missouri (and spending most of her career under another decidedly different name) Piper picked up a pen at the age of eight and drew her first comic book, and--despite the world's valiant attempts to stop her--that's more or less what she's been doing since. Her work deals with loss, queer issues, her own battles with mental illness and homelessness, and the psychology of trauma and religion.
 
 She is the cartoonist behind [Our Lady Maven](https://ourladymaven.com/about-us/), [Tabula Rosetta](https://theblackworkorganization.bigcartel.com/category/tabula-rosetta), and [many others](/resume/bibliography/biblio/), and currently works providing illustrations and cover art for [multiple record labels, publishers, and magazines the world over](/resume/clientreview/). She is also a member of the [Graphic Artists Guild](https://graphicartistsguild.org/member-portfolio/sarahallenreed), and her work can be found in the permanent collection of the [Billy Ireland Cartoon Library & Museum](https://osucartoons.pastperfectonline.com/webobject/3409A1CD-4D48-4E97-8E01-545875413354) in Columbus and the [Butler Library](https://www.columbia.edu/cu/lweb/archival/collections/ldpd_13399267/) at Columbia University in New York, as well as many other public and private collections.
 
@@ -34,7 +34,7 @@ There are times where space is at a premium. I have provided the following for c
 
 <br/>
 
->Sarah Allen Reed is the cartoonist and illustrator behind Tabula Rosetta, Our Lady Maven, and many other publications. She currently works providing illustrations and cover art for multiple record labels, publishers, and magazines around the world, and her work can be found in multiple collections, both public and private. Her whereabouts are currently unknown. You, however, can find her at sarahallenreed.com.
+>Piper Bly is the cartoonist and illustrator behind Tabula Rosetta, Our Lady Maven, and many other publications. She currently works providing illustrations and cover art for multiple record labels, publishers, and magazines around the world, and her work can be found in multiple collections, both public and private. Her whereabouts are currently unknown. You, however, can find her at sarahallenreed.com.
 
 ---
 
@@ -46,7 +46,7 @@ I understand many folks have questions about myself and my work, usually of a mo
 
 ---
 
-### Contacting Sarah
+### Contacting Piper
 
 ---
 
@@ -54,7 +54,7 @@ If you would like to hire me for your next project, [please click here](/resume/
 
 You can also email me at [sarah@sarahallenreed.com](mailto:sarah@sarahallenreed.com) or send letters, packages, and other physical mail (no pipe bombs or arsenic, please) to my handlers via The Blackwork Organization at the following address:
 
->Sarah Allen Reed   
+>Piper Bly   
 >C/O BLACKWORK, LLC   
 >4343 16th St #166   
 >Moline, IL 61265   
