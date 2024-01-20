@@ -54,8 +54,7 @@ If you would like to hire me for your next project, [please click here](/resume/
 
 You can also email me at [sarah@sarahallenreed.com](mailto:sarah@sarahallenreed.com) or send letters, packages, and other physical mail (no pipe bombs or arsenic, please) to my handlers via The Blackwork Organization at the following address:
 
->Piper Bly   
->C/O BLACKWORK, LLC   
+>BLACKWORK, LLC    
 >4343 16th St #166   
 >Moline, IL 61265   
 
